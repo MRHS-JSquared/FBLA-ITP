@@ -77,18 +77,3 @@ This project demonstrates:
 - shadcn/ui (UI Components)
 - localStorage (Data Persistence)
 
-## FBLA Competition Compliance
-
-This project meets all requirements for the FBLA Introduction to Programming event:
-- ✅ Customization (name, type selection)
-- ✅ Pet care features (feed, play, rest, clean, health check)
-- ✅ Reactions based on care level (happy, sick, sad, energetic, tired, hungry, dirty)
-- ✅ Cost tracking (food, vet, toys, supplies)
-- ✅ Budget system (in-game currency)
-- ✅ Running total of expenses
-- ✅ Earning system (chores to earn money)
-- ✅ Pet growth and evolution
-- ✅ Clean, commented code
-- ✅ User-friendly interface
-- ✅ Input validation
-- ✅ Comprehensive documentation
