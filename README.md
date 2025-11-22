@@ -1,4 +1,4 @@
-# Virtual Pet Care - FBLA Introduction to Programming
+# Pet Planet - FBLA Introduction to Programming
 
 A comprehensive virtual pet application that teaches financial responsibility and pet ownership through interactive gameplay.
 
